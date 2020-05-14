@@ -1,0 +1,2 @@
+2020-04-27 15:54:37.504  INFO 16664 --- [restartedMain] com.luqi.blog.BlogApplication            : Starting BlogApplication on DESKTOP-9BS8L6O with PID 16664 (E:\项目\blog\target\classes started by 鲁琪 in E:\项目\blog)
+2020-04-27 15:54:37.510  INFO 16664 --- [restartedMain] com.luqi.blog.BlogApplication            : The following profiles are active: pro
